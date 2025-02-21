@@ -28,3 +28,4 @@ ferramenta de <strong>Business Intelligence (BI) Open Source</strong> para visua
 <p>Apache Superset, SQL, PostgreSQL, Power BI, Python, Docker, Kubernetes.</p>
 
 <h3>🔗 Vamos nos conectar!</h3>
+<p><a href="https://www.linkedin.com/in/carlos-magno-ribeiro-a6b7b043/" target="_blank"><strong>LinkedIn: Carlos Magno Ribeiro</strong></a></p>
